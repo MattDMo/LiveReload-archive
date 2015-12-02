@@ -1,4 +1,4 @@
-# This repo is being made available as a public service. I have no relation to the original author, and I have no plans for maintaining it. No issues can be files, and any pull requests will be ignored. If anyone would like to maintain it, contact me.
+# This repo is being made available as a public service. I have no relation to the original author, and I have no plans for maintaining it. If anyone would like to maintain it, contact me.
 ---
 
 ## LiveReload for Sublime Text 3
