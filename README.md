@@ -1,10 +1,7 @@
-[![Build Status](https://travis-ci.org/dz0ny/LiveReload-sublimetext2.png?branch=devel)](https://travis-ci.org/dz0ny/LiveReload-sublimetext2)
-[![Fattrme](http://api.flattr.com/button/flattr-badge-large.png)](http://flattr.com/thing/1492893/dz0nyLiveReload-sublimetext2-on-GitHub)
-[![Gittip](http://badgr.co/gittip/dz0ny.png)](https://www.gittip.com/dz0ny/)
+# This repo is being made available as a public service. I have no relation to the original author, and I have no plans for maintaining it. No issues can be files, and any pull requests will be ignored. If anyone would like to maintain it, contact me.
+---
 
-
-
-# LiveReload for Sublime Text 3
+## LiveReload for Sublime Text 3
 
 A web browser page reloading plugin for the [Sublime Text 3](http://sublimetext.com "Sublime Text 3") editor. 
 
